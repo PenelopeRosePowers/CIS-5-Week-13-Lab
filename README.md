@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Show the run, then explain why `printStudent` takes `const Student&` and how `roster[i].gpa` picks one field.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (23).webm](https://github.com/user-attachments/assets/9fd793b4-b603-4820-bde4-603784985c2d)
+
 
 ## Scenario
 
